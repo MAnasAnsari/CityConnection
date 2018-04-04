@@ -1,0 +1,5 @@
+com\cityConnection\CityConnectionApplication.class
+com\cityConnection\controller\ConnectionController.class
+com\cityConnection\service\ConnectionService.class
+com\cityConnection\model\City.class
+com\cityConnection\config\ApplicationConfiguration.class
